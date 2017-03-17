@@ -16,7 +16,7 @@ This BUIP proposes the allocation of funds to pay for a thorough review of the B
 
 The Bitcoin Unlimited client has suffered two major incidents resulting from flaws in its source code. In January 2017, the Bitcoin.com mining pool unintentionally created a block exceeding 1 MB [1]. This block was expectedly orphaned by the rest of the network, costing the Bitcoin.com mining pool the block reward. In March 2017, a remote crash vulnerability was used by an attacker to bring a large number of Bitcoin Unlimited nodes offline [2].
 
-It is highly plausible that more flaws remain in Bitcoin Unlimited's code. If found and exploited, these flaws could potentially be used by attackers to cause significant damages to Bitcoin Unlimited operators and disrupt the Bitcoin network as a whole. To protect Bitcoin Unlimited operators and the Bitcoin network, it is imperative that the client's source code is thoroughly reviewed by security experts in order to locate and responsibly patch any existing flaws.
+It is highly plausible that more flaws remain in Bitcoin Unlimited's code. If found and exploited, these flaws could potentially be used by attackers to cause significant damages to Bitcoin Unlimited operators and disrupt the Bitcoin network as a whole. To protect Bitcoin Unlimited operators and the Bitcoin network, it is imperative for the client's source code to be thoroughly reviewed by security experts.
 
 ### Funding
 
