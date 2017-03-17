@@ -41,4 +41,5 @@ It is highly plausible that more flaws remain in Bitcoin Unlimited's code. If fo
 ### References
 
 [1] https://bitco.in/forum/threads/buir-2017-01-29-statement-regarding-excessive-block-by-bitcoin-unlimited-software-29-jan-2017.1790/
+
 [2] https://medium.com/@g.andrew.stone/buir-2017-2-23-statement-regarding-network-wide-bitcoin-client-failure-28a59ffffeaa#.u1vuy0lds
