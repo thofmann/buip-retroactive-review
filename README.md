@@ -1,4 +1,4 @@
-# BUIP ---: Retroactive Code Review by Security Experts
+# BUIP ---: Retroactive Code Review
 
 Proposer: Trevin Hofmann
 
